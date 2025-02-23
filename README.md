@@ -84,7 +84,6 @@ Option [2]: Toggle Logging
     everytime it's done; However, if you turn ON logging then it will bypass this and log your dorks automaticly. 
 
 Option [3]: Update Database
-    **YOU MUST RUN THIS IF IT IS YOUR FIRST TIME USING THE SCRIPT, IF YOU DON'T NOTHING WILL GENERATE, THIS IS FOR THE INITAL DATABASE POPULATION.**
     This allows you to manually update the scripts database, the script doesn't update on it's own as it in all transparency takes a good amount of time. 
     If you run this, know it's pulling the entire expliot-db database, as of writing this thats 7950 different expliots so it will take sometime. 
 
